@@ -1,1 +1,5 @@
-This game is meant to help people practice japanese hiragana
+# Japanese Hiragana Game
+## Goal
+Finish the game with 0 mistakes in a short amount of time
+## How to play
+When you see the character pop up, click on the corresponding romaji
